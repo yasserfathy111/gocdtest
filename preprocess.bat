@@ -1,1 +1,1 @@
-gcc -E main.c -o rvs/preprocesses/main.i
+gcc -E main.c -o rvs/preprocessed/main.i
