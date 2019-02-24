@@ -1,2 +1,2 @@
 
-cins main.i 
+cins main.c
