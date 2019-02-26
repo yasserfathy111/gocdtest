@@ -1,1 +1,2 @@
-gcc -E main.c -o rvs/preprocessed/main.i
+rem resources: tasking
+ctc -E main.c -o rvs/preprocessed/main.i
